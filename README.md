@@ -19,6 +19,15 @@
   <b>Kenshin Juanico</b><br>
   <i>Cagayan de Oro City, Philippines</i><br>
   <i>University of Science and Technology of Southern Philippines</i><br>
+  <br>
+  <b>He's Into...</b><br>
+  <ul>
+    <li>UI/UX Design</li>
+    <li>Data Science</li>
+    <li>Cloud Computing</li>
+    <li>Hardware</li>
+    <li>Linux</li>
+  </ul>
   
 </p>
 <p align="left">
