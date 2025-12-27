@@ -16,6 +16,8 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rocketwolf98&show_icons=true&theme=radical&border_color=e52d27&title_color=e52d27&icon_color=e52d27" alt="RocketWolf's GitHub stats" />
-</p>
+</p> -->
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=rocketwolf98)](https://github.com/anuraghazra/github-readme-stats)
