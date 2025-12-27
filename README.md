@@ -16,10 +16,9 @@
 </p>
 <p>
   <h3>Get to Know Me</h3>
-  **Kenshin Juanico**
-  _Cagayan de Oro City, Philippines_
-  _University of Science and Technology of Southern Philippines_
-
+  <b>Kenshin Juanico</b>
+  <i>Cagayan de Oro City, Philippines</i>
+  <i>University of Science and Technology of Southern Philippines</i>
   
 </p>
 <p align="left">
