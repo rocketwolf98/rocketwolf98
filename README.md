@@ -5,9 +5,9 @@
 <p align="center">
   <h3>Connect with me!</h3>
   <a href="https://rockt-wolf.carrd.co/">
-    <img src="https://img.shields.io/badge/Carrd-E52D27?style=for-the-badge&logo=carrd&logoColor=white" />
+    <img src="https://img.shields.io/badge/Carrd-360185?style=for-the-badge&logo=carrd&logoColor=white" />
   </a>
-  <a href="https://rockt-wolf.carrd.co/">
-    <img src="https://img.shields.io/badge/GitHub Pages-E52D27?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <a href="https://rockt-wolf.carrd.co/](https://rocketwolf98.github.io/porfolio-deeplearning/intro.html">
+    <img src="https://img.shields.io/badge/GitHub Pages-FF4646?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
