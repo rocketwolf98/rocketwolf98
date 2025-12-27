@@ -14,7 +14,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p>
+  <h3>Get to Know Me</h3>
+  **Kenshin Juanico**
+  _Cagayan de Oro City, Philippines_
+  _University of Science and Technology of Southern Philippines_
 
+  
+</p>
 <p align="left">
   <h3>Things learned and currently learning...</h3>
 </p>
