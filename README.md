@@ -7,7 +7,10 @@
   <a href="https://rockt-wolf.carrd.co/">
     <img src="https://img.shields.io/badge/Carrd-360185?style=for-the-badge&logo=carrd&logoColor=white" />
   </a>
-  <a href="https://rockt-wolf.carrd.co/](https://rocketwolf98.github.io/porfolio-deeplearning/intro.html">
+  <a href="https://rocketwolf98.github.io/porfolio-deeplearning/intro.html">
     <img src="https://img.shields.io/badge/GitHub Pages-FF4646?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+   <a href="www.linkedin.com/in/hernel-niño-juanico-437582252">
+    <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
