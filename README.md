@@ -13,6 +13,9 @@
    <a href="www.linkedin.com/in/hernel-niño-juanico-437582252">
     <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+     <a href="https://huggingface.co/fmmkii">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </a>
 </p>
 <p>
   <h3>Get to Know Me</h3>
